@@ -1,0 +1,28 @@
+.user-details{
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px 4px #000000 ;
+    float: right;
+}
+img{
+    max-width: 51%;
+    max-height: 51%;
+    box-shadow:0 4px 8px 0 rgb(12, 146, 124), 0 6px 20px 0 rgba(5, 57, 116, 0.932); ;
+    border-radius: 11px;
+    
+}
+.container{
+    
+    border: 111px;
+    width: 51x;
+    padding: 25px;
+   
+    background-repeat: no-repeat;
+    background-size: auto;
+    color: white;
+    overflow: hidden;
+  }
+
+body{
+    background-image: url(./image/glowing-stage-light-illuminates-cheering-rock-fans-generated-by-ai.jpg);
+   background-size: 100% 100%;
+}
